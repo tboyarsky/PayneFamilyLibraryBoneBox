@@ -23,7 +23,6 @@ h1 {
   padding: 20px;
 }
 iframe {
-  margin-left: 5%;
-  margin-right: 5%;
-  width: 90%;
+  width: auto;
+  margin: auto;
 }
